@@ -1,7 +1,7 @@
 {
   "name": "acesso-bank-lib",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
   "main": "lib/index.js",
   "scripts": {
     "android": "react-native run-android",
