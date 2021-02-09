@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/Optional.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/Portability.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/CPortability.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/Traits.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/Utility.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

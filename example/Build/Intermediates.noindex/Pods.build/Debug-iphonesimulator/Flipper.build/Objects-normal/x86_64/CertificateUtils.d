@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.cpp \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Target\ Support\ Files/Flipper/Flipper-prefix.pch \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/pem.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/e_os2.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/opensslconf.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/opensslv.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/bio.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/crypto.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/safestack.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/stack.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/ossl_typ.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/cryptoerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/symhacks.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/bioerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/evp.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/evperr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/objects.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/obj_mac.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/asn1.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/asn1err.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/bn.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/bnerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/objectserr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/x509.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/buffer.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/buffererr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/ec.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/ecerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/rsa.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/rsaerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/dsa.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/dh.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/dherr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/dsaerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/sha.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/x509err.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/x509_vfy.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/lhash.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/pkcs7.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/pkcs7err.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/Build/Products/Debug-iphonesimulator/XCFrameworkIntermediates/OpenSSL/openssl.framework/Headers/pemerr.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/Fcntl.h \
+  /Users/wdias/Documents/GitHub/AcessoBankLib/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/SysStat.h
