@@ -1,10 +1,8 @@
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import { SafeAreaView, View } from 'react-native';
-
+import { Button } from 'acesso-lib';
 import WhiteTheme from './themes/white';
-
-import { Button } from '../lib';
 
 const App = () => {
   return (
